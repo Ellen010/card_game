@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const connectionString ='YOUR_DATABASE_LINK/miniuno';
+const connectionString ='YOUR_MONGOOSE_DATABASE_LINK/miniuno';
 
 
 mongoose.connect(connectionString, { connectTimeoutMS: 2000 })
