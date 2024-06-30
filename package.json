@@ -1,0 +1,14 @@
+{
+  "name": "miniuno2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.0"
+  }
+}
